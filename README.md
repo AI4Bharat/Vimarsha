@@ -164,9 +164,3 @@ docs/                 lattice format and annotation guidance
 - OIWER accepts documented orthographic alternatives; it is not a semantic or
   phonetic similarity metric.
 - Apply one consistent normalization and annotation policy across systems.
-
-## Citation and license
-
-Citation metadata, the final paper link, Hugging Face dataset URL, and an
-explicit open-source license must be added before public release. The source
-repository did not contain a license, so this curation does not assume one.
