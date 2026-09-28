@@ -155,12 +155,3 @@ examples/             synthetic, runnable manifests
 tests/                metric and lattice regression tests
 docs/                 lattice format and annotation guidance
 ```
-
-## Limitations
-
-- Model-generated variants can be wrong; human verification is required.
-- Progressive alignment is heuristic and its output can depend on hypothesis
-  order.
-- OIWER accepts documented orthographic alternatives; it is not a semantic or
-  phonetic similarity metric.
-- Apply one consistent normalization and annotation policy across systems.
